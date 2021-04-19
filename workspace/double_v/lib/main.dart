@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:double_v/screens/form.dart';
 import 'package:double_v/screens/search_user.dart';
+import 'package:double_v/screens/list_users.dart';
 
 void main() => runApp(new MyApp());
 
@@ -16,6 +17,7 @@ class MyApp extends StatelessWidget {
         '/home': (BuildContext context) => new HomePage(),
         '/registration': (BuildContext context) => new FormPage(),
         '/search': (BuildContext context) => new SearchUser(),
+        '/list': (BuildContext context) => new ListUsers(),
       },
     );
   }
