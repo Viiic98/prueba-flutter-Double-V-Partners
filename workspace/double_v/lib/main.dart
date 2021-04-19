@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:double_v/screens/form.dart';
 
 void main() => runApp(new MyApp());
 
@@ -13,13 +13,13 @@ class MyApp extends StatelessWidget {
       home: new HomePage(),
       routes: <String, WidgetBuilder>{
         '/home': (BuildContext context) => new HomePage(),
+        '/registration': (BuildContext context) => new FormPage(),
       },
     );
   }
 }
 
 class HomePage extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
