@@ -1,0 +1,9 @@
+.git
+Dockerfile
+.gitignore
+.dockerignore
+.packages
+build/
+pubspec.lock
+.idea
+.dart_tool
