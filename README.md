@@ -44,10 +44,10 @@ Dentro del contenedor debemos realizar un Android Debug Bridge(adb) que nos perm
 El dispositivo debe estar conectado en la misma red.
 Para ello primero nos dirigiremos a Settings > System > Advanced > Developer options > Wireless debugging
 Habilitamos el Wireless debugging y nos aparecerá lo siguiente
-![](/img/wireless1.png)
+<br /><img src="/img/wireless1.png" alt="alt text" width="190" height="390"><br />
 Presionamos 'Allow' y luego vamos a presionar 'Pair device with pairing code' y nos saldrá lo siguiente
-![](/img/wireless2.png)
-![](/img/wireless3.png)
+<br /><img src="/img/wireless2.png" alt="alt text" width="190" height="390"><br />
+<br /><img src="/img/wireless3.png" alt="alt text" width="190" height="390"><br />
 Una vez con esto nos dirigimos a la ventana de comandos y en el contenedor ejecutaremos el siguiente comando:
 ```
 adb pair IP_ADDRESS:PORT
