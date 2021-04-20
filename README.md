@@ -86,17 +86,17 @@ Después de que ha cargado y finalmente se encuentra corriendo nos aparecerá es
 #### Home
 Aquí encontraremos 3 botones que nos permitirán navegar en la aplicación
 'Registrar', 'Buscar Usuario', 'Lista de Usuarios'
-![](/img/app1.png)
+<img src="/img/app1.png" alt="alt text" width="190" height="390">
 
 #### Registrar
 Al presionar registrar nos abrirá el siguiente formulario que nos permitirá registrar un usuario.
 Se añadió el campo 'Email' como campo único para poder realizar otras funcionalidades en la aplicación.
-![](/img/app2.png)
-![](/img/app3.png)
+<img src="/img/app2.png" alt="alt text" width="190" height="390">
+<img src="/img/app3.png" alt="alt text" width="190" height="390">
 
 #### Buscar usuario
 Aquí podremos ingresar el 'Email' de un usuario para modificar sus datos o ver los datos de este.
-![](/img/app4.png)
+<img src="/img/app4.png" alt="alt text" width="190" height="390">
 
 #### Lista de usuarios
 Aquí veremos una lista con todos los usuarios que han sido registrados en la aplicación identificados por su correo.
@@ -104,23 +104,24 @@ Al lado de cada usuario veremos 3 botones.
 El primero nos permitirá modificar los datos del usuario seleccionado
 El segundo nos permitirá consultar los datos del usuario
 El tercero nos permitirá eliminar al usuario
-![](/img/app5.png)
+<img src="/img/app5.png" alt="alt text" width="190" height="390">
 
 #### Consultar usuario
 Aquí se listarán los datos del usuario.
-![](/img/app7.png)
+<img src="/img/app7.png" alt="alt text" width="190" height="390">
 Esta vista contiene un pop up que permite modificar o eliminar al usuario.
-![](/img/app8.png)
+<img src="/img/app8.png" alt="alt text" width="190" height="390">
+
 
 #### Modificar usuario
 Aquí se listarán los datos del usuario permitiendo modificar los datos de este.
 **Nota: El único dato que no es modificable es el Email**
-<img src="/img/app6.png" alt="alt text" width="360" height="780">
+<img src="/img/app6.png" alt="alt text" width="190" height="390">
 
 #### Barra de navegación
 Se incluyó una barra de navegación en algunas de las vistas para facilitar la navegación en la aplicación.
 ![](/img/bar1.PNG)
-<img src="/img/bar2.PNG" alt="alt text" width="250" height="120">
+![](/img/bar2.PNG)
 
 ## Authors
 Victor Arteaga - [LinkedIn](https://www.linkedin.com/in/viiic98)
