@@ -102,10 +102,10 @@ Aquí podremos ingresar el 'Email' de un usuario para modificar sus datos o ver 
 
 #### Lista de usuarios
 Aquí veremos una lista con todos los usuarios que han sido registrados en la aplicación identificados por su correo.
-Al lado de cada usuario veremos 3 botones.
-El primero nos permitirá modificar los datos del usuario seleccionado
-El segundo nos permitirá consultar los datos del usuario
-El tercero nos permitirá eliminar al usuario<br />
+Al lado de cada usuario veremos 3 botones.<br />
+El primero nos permitirá modificar los datos del usuario seleccionado.<br />
+El segundo nos permitirá consultar los datos del usuario.<br />
+El tercero nos permitirá eliminar al usuario.<br />
 <img src="/img/app5.png" alt="alt text" width="190" height="390"><br />
 
 #### Consultar usuario
