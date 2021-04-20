@@ -115,12 +115,12 @@ Esta vista contiene un pop up que permite modificar o eliminar al usuario.
 #### Modificar usuario
 Aquí se listarán los datos del usuario permitiendo modificar los datos de este.
 **Nota: El único dato que no es modificable es el Email**
-![](/img/app6.png)
+<img src="/img/app6.png" alt="alt text" width="150" height="450">
 
 #### Barra de navegación
 Se incluyó una barra de navegación en algunas de las vistas para facilitar la navegación en la aplicación.
-<img src="/img/bar1.PNG" alt="alt text" width="120" height="50">
-![](/img/bar2.PNG =100x20)
+<img src="/img/bar1.PNG" alt="alt text" width="250" height="120">
+<img src="/img/bar2.PNG" alt="alt text" width="250" height="120">
 
 ## Authors
 Victor Arteaga - [LinkedIn](https://www.linkedin.com/in/viiic98)
