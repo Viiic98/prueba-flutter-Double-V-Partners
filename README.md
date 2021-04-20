@@ -15,9 +15,9 @@ Crea un proyecto mobile en flutter que tenga un formulario para crear un usuario
 #### Paso 1
 Abrir una ventana de comandos y clonar este repositorio
 ```
-git clone
+git clone https://github.com/Viiic98/prueba-flutter-Double-V-Partners.git
 ```
-![](/img/clone.png)
+![alt text](/img/clone.png)
 #### Paso 2
 Posicionarnos en el root del repositorio, justamente donde se encuentra el 'Dockerfile'
 ![](/img/root.png)
@@ -72,31 +72,31 @@ Nos dirigimos a la carpeta de la aplicación y corremos el siguiente comando par
 cd workspace/double_v
 flutter doctor
 ```
-![](/img/doctor.png)
+![](./img/doctor.png =250x)
 Finalmente nos debe aparecer lo siguiente lo cual indica que todo está bien y podremos correr la aplicación.
 Para correr la aplicación usamos:
 ```
 flutter run
 ```
 Después de que ha cargado y finalmente se encuentra corriendo nos aparecerá esto en la consola y si miramos nuestro dispositivo se nos habrá abierto la aplicación
-![](/img/f_run.png)
+![](/img/f_run.png =250x)
 
 ### Guía de la aplicación
 
 #### Home
 Aquí encontraremos 3 botones que nos permitirán navegar en la aplicación
 'Registrar', 'Buscar Usuario', 'Lista de Usuarios'
-![](/img/app1.png)
+![](/img/app1.png =250x)
 
 #### Registrar
 Al presionar registrar nos abrirá el siguiente formulario que nos permitirá registrar un usuario.
 Se añadió el campo 'Email' como campo único para poder realizar otras funcionalidades en la aplicación.
-![](/img/app2.png)
-![](/img/app3.png)
+![](/img/app2.png =250x)
+![](/img/app3.png =250x)
 
 #### Buscar usuario
 Aquí podremos ingresar el 'Email' de un usuario para modificar sus datos o ver los datos de este.
-![](/img/app4.png)
+![](/img/app4.png =250x)
 
 #### Lista de usuarios
 Aquí veremos una lista con todos los usuarios que han sido registrados en la aplicación identificados por su correo.
@@ -104,23 +104,23 @@ Al lado de cada usuario veremos 3 botones.
 El primero nos permitirá modificar los datos del usuario seleccionado
 El segundo nos permitirá consultar los datos del usuario
 El tercero nos permitirá eliminar al usuario
-![](/img/app5.png)
+![](/img/app5.png =250x)
 
 #### Consultar usuario
 Aquí se listarán los datos del usuario.
-![](/img/app7.png)
+![](/img/app7.png =250x)
 Esta vista contiene un pop up que permite modificar o eliminar al usuario.
-![](/img/app8.png)
+![](/img/app8.png =250x)
 
 #### Modificar usuario
 Aquí se listarán los datos del usuario permitiendo modificar los datos de este.
 **Nota: El único dato que no es modificable es el Email**
-![](/img/app6.png)
+![](/img/app6.png =250x)
 
 #### Barra de navegación
 Se incluyó una barra de navegación en algunas de las vistas para facilitar la navegación en la aplicación.
-![](/img/bar1.png)
-![](/img/bar2.png)
+![](/img/bar1.png =250x)
+![](/img/bar2.png =250x)
 
 ## Authors
 Victor Arteaga - [LinkedIn](https://www.linkedin.com/in/viiic98)
