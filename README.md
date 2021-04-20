@@ -119,8 +119,8 @@ Aquí se listarán los datos del usuario permitiendo modificar los datos de este
 
 #### Barra de navegación
 Se incluyó una barra de navegación en algunas de las vistas para facilitar la navegación en la aplicación.
-![](/img/bar1.png)
-![](/img/bar2.png =100x20)
+<img src="/img/bar1.PNG" alt="alt text" width="120" height="50">
+![](/img/bar2.PNG =100x20)
 
 ## Authors
 Victor Arteaga - [LinkedIn](https://www.linkedin.com/in/viiic98)
