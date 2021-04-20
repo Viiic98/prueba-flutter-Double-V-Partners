@@ -84,18 +84,20 @@ Después de que ha cargado y finalmente se encuentra corriendo nos aparecerá es
 ### Guía de la aplicación
 
 #### Home
-Aquí encontraremos 3 botones que nos permitirán navegar en la aplicación
+Aquí encontraremos 3 botones que nos permitirán navegar en la aplicación.
 'Registrar', 'Buscar Usuario', 'Lista de Usuarios'
+<br />
 <img src="/img/app1.png" alt="alt text" width="190" height="390"><br />
 
 #### Registrar
 Al presionar registrar nos abrirá el siguiente formulario que nos permitirá registrar un usuario.
 Se añadió el campo 'Email' como campo único para poder realizar otras funcionalidades en la aplicación.
+<br />
 <img src="/img/app2.png" alt="alt text" width="190" height="390"><br />
 <img src="/img/app3.png" alt="alt text" width="190" height="390"><br />
 
 #### Buscar usuario
-Aquí podremos ingresar el 'Email' de un usuario para modificar sus datos o ver los datos de este.
+Aquí podremos ingresar el 'Email' de un usuario para modificar sus datos o ver los datos de este.<br />
 <img src="/img/app4.png" alt="alt text" width="190" height="390"><br />
 
 #### Lista de usuarios
@@ -103,19 +105,19 @@ Aquí veremos una lista con todos los usuarios que han sido registrados en la ap
 Al lado de cada usuario veremos 3 botones.
 El primero nos permitirá modificar los datos del usuario seleccionado
 El segundo nos permitirá consultar los datos del usuario
-El tercero nos permitirá eliminar al usuario
+El tercero nos permitirá eliminar al usuario<br />
 <img src="/img/app5.png" alt="alt text" width="190" height="390"><br />
 
 #### Consultar usuario
-Aquí se listarán los datos del usuario.
+Aquí se listarán los datos del usuario.<br />
 <img src="/img/app7.png" alt="alt text" width="190" height="390"><br />
-Esta vista contiene un pop up que permite modificar o eliminar al usuario.
+Esta vista contiene un pop up que permite modificar o eliminar al usuario.<br />
 <img src="/img/app8.png" alt="alt text" width="190" height="390"><br />
 
 
 #### Modificar usuario
-Aquí se listarán los datos del usuario permitiendo modificar los datos de este.
-**Nota: El único dato que no es modificable es el Email**
+Aquí se listarán los datos del usuario permitiendo modificar los datos de este.<br />
+**Nota: El único dato que no es modificable es el Email**<br />
 <img src="/img/app6.png" alt="alt text" width="190" height="390"><br />
 
 #### Barra de navegación
